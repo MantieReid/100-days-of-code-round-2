@@ -7,5 +7,6 @@ I have Decided to take on the 100 days of code challenge.  Below you find a tabl
 
 
 | ﻿Day 	| Date 	| Description 	| Commit Hyperlink 	|
-|------	|------------	|-------------------------------------	|--------------------------------------------------	|
+|-------	|------------	|-------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|
 | Day1 	| 12/31/2019 	| Count Complete Tree Nodes  solution 	| https://github.com/MantieReid/leetcode-solutions 	|
+| Day 2 	| 1/1/2019 	| Minimum Domino Rotations For Equal Row.py 	| https://github.com/MantieReid/leetcode-solutions/blob/master/Minimum%20Domino%20Rotations%20For%20Equal%20Row.py 	|
