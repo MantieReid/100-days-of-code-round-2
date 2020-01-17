@@ -24,3 +24,4 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 14 	| 1/13/2020 	| Palindrome Linked List 	| https://github.com/MantieReid/leetcode-solutions/commit/bbf625c7811e17ca81488991ab207b0efd9614b5 	|
 | Day 15 	| 1/14/2020 	| count primes and remove linked list elements 	| https://github.com/MantieReid/leetcode-solutions/commit/77087fe04d981729ea10e2a91463ebf77b785dee 	|
 | Day 16 	| 1/15/2020 	| Remove duplicates from sorted array and find the duplicate number 	| https://github.com/MantieReid/leetcode-solutions/commit/ac76b724b6aef7d9c60f54e110d2e3c8c5291ca1 	|
+| Day 17 	| 1/16/20200 	| Two sum and search insert position. 	| https://github.com/MantieReid/leetcode-solutions/commit/96a0266108f1ce99f8e46eac93e13d8eec2cadeb 	|
