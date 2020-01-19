@@ -25,3 +25,4 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 15 	| 1/14/2020 	| count primes and remove linked list elements 	| https://github.com/MantieReid/leetcode-solutions/commit/77087fe04d981729ea10e2a91463ebf77b785dee 	|
 | Day 16 	| 1/15/2020 	| Remove duplicates from sorted array and find the duplicate number 	| https://github.com/MantieReid/leetcode-solutions/commit/ac76b724b6aef7d9c60f54e110d2e3c8c5291ca1 	|
 | Day 17 	| 1/16/20200 	| Two sum and search insert position. 	| https://github.com/MantieReid/leetcode-solutions/commit/96a0266108f1ce99f8e46eac93e13d8eec2cadeb 	|
+| Day 18 	| 1/17/2020 	| Fibonacci Number convert Binary Number in a Linked List to integer 	| https://github.com/MantieReid/leetcode-solutions/commit/17d0c8755419246f6f0768181c299065f9bf2d61 	|
