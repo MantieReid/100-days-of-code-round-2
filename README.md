@@ -28,3 +28,7 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 18 	| 1/17/2020 	| Fibonacci Number convert Binary Number in a Linked List to integer 	| https://github.com/MantieReid/leetcode-solutions/commit/17d0c8755419246f6f0768181c299065f9bf2d61 	|
 | Day 19 	| 1/18/2020 	| Power of Three 	| https://github.com/MantieReid/leetcode-solutions/commit/f9be37574057d5ff6a0d5fab5131f69b2fd732d8 	|
 | Day 20 	| 1/19/2020 	| 98. Validate Binary Search Tree.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/5a4ae5fc0caf16401dd445f2be045d450853ece0 	|
+| Day 21 	| 1/20/2020 	| Create 326. Power of Three.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/9b1e4c6250d8af212d478ebfff494eea6cad3866 	|
+| Day 22 	| 1/21/2020 	| Day of year 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/6ad73eda14118b3f8f84d053f3befa003db23d58 	|
+| Day 23 	| 1/22/2020 	| 520. Detect Capital.py 	| https://github.com/MantieReid/100-days-of-code-round-2/blob/master/Day%2023/520.%20Detect%20Capital.py 	|
+| Day 24 	| 1/23/2020 	| Same Tree, range sum of BST 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8f7782d5afc18b2c9045cc0e2c31dc0eaf591bf0 	|
