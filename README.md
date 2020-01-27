@@ -5,9 +5,8 @@
 I have Decided to take on the 100 days of code challenge, round 2.  Below you find a table that links to each commit for the code that I did for each day. 
 
 
-
 | ﻿Day 	| Date 	| Description 	| Commit Hyperlink 	|
-|--------	|------------	|------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|
+|---------	|------------	|------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|
 | Day1 	| 12/31/2019 	| Count Complete Tree Nodes  solution 	| https://github.com/MantieReid/leetcode-solutions/commit/7cecf3d3cd9025f041a2a8d2f66dd7477d469fd8 	|
 | Day 2 	| 1/1/2020 	| Minimum Domino Rotations For Equal Row.py 	| https://github.com/MantieReid/leetcode-solutions/blob/master/Minimum%20Domino%20Rotations%20For%20Equal%20Row.py 	|
 | Day 3 	| 1/2/2020 	| Add Two Numbers 	| https://github.com/MantieReid/leetcode-solutions/commit/fac382238664fa58292d5a25379dff0f3df0519c 	|
@@ -32,3 +31,5 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 22 	| 1/21/2020 	| Day of year 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/6ad73eda14118b3f8f84d053f3befa003db23d58 	|
 | Day 23 	| 1/22/2020 	| 520. Detect Capital.py 	| https://github.com/MantieReid/100-days-of-code-round-2/blob/master/Day%2023/520.%20Detect%20Capital.py 	|
 | Day 24 	| 1/23/2020 	| Same Tree, range sum of BST 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8f7782d5afc18b2c9045cc0e2c31dc0eaf591bf0 	|
+| Day 25` 	| 1/25/2020 	| 704. Binary Search.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/e248d451faa0b0b769f4bd46e02481f7a7cf5f29 	|
+| Day 26 	| 1/26/2020 	| 977. Squares of a Sorted Array.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/48825ddc03ea81a9ff20f8222be533df40a21efc 	|
