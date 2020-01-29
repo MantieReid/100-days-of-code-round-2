@@ -4,7 +4,6 @@
 
 I have Decided to take on the 100 days of code challenge, round 2.  Below you find a table that links to each commit for the code that I did for each day. 
 
-
 | ﻿Day 	| Date 	| Description 	| Commit Hyperlink 	|
 |---------	|------------	|------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|
 | Day1 	| 12/31/2019 	| Count Complete Tree Nodes  solution 	| https://github.com/MantieReid/leetcode-solutions/commit/7cecf3d3cd9025f041a2a8d2f66dd7477d469fd8 	|
@@ -34,3 +33,4 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 25` 	| 1/25/2020 	| 704. Binary Search.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/e248d451faa0b0b769f4bd46e02481f7a7cf5f29 	|
 | Day 26 	| 1/26/2020 	| 977. Squares of a Sorted Array.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/48825ddc03ea81a9ff20f8222be533df40a21efc 	|
 | Day 27 	| 1/27/2020 	| 371. Sum of Two Integers.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/d30f367186bc7c449e4b690a6f214e9b0d414f0d 	|
+| Day 28 	| 1/28/2020 	| Invert Binary Tree 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/01a792aeb9eab3dbc587ddef4ba092661aa44b6d 	|
