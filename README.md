@@ -34,3 +34,11 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 26 	| 1/26/2020 	| 977. Squares of a Sorted Array.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/48825ddc03ea81a9ff20f8222be533df40a21efc 	|
 | Day 27 	| 1/27/2020 	| 371. Sum of Two Integers.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/d30f367186bc7c449e4b690a6f214e9b0d414f0d 	|
 | Day 28 	| 1/28/2020 	| Invert Binary Tree 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/01a792aeb9eab3dbc587ddef4ba092661aa44b6d 	|
+| Day 29 	| 1/29/2020 	| Create Reverse Word in a String III 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/9991a1bae314883c374df86cc068afb035ea2648 	|
+| Day 30 	| 1/30/2020 	| 217. Contains duplicate. 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/bae9fb34abe76aef5545024da5deaa0aed180dbd 	|
+| Day 31 	| 1/31/2020 	| 1122. Relative Sort Array 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/16110406d7465d784930b3ed5b5aad858f90605b 	|
+| Day 32 	| 2/1/2020 	| 344. Reverse String. 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/fdc570d6eaffa023cde273d71e09a013b55dd188 	|
+| Day 33 	| 2/2/2020 	| 876 Middle of the Linked List 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/6cd3cb03133138507757983d0fe05d77b7e59a8f 	|
+| Day 34 	| 2/3/2020 	| 1185. Day of the week 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4f1041f86865d5334d47a47d08f4819375e0af4c 	|
+| Day 35 	| 2/4/2020 	| 1133 Largest Unique Number.   709. Lower Case.Py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/b1712c6b76f5597a59fdc1d1bd09e9b877b7d208 	|
+| Day 36 	| 2/5/2020 	| 739. Daily Temperatures Solution.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/45875db7f5b086c674eaa82ed82061404585df2e 	|
