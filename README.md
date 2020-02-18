@@ -52,4 +52,4 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 44 	| 2/14/2020 	| 38. Count and say.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/02786b94ddd3fb223316d1d2646abd63d9a9c8ec 	|  	|
 | Day 45 	| 2/15/2020 	| 189. Rotate Array.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/feb941358d6429ca2e230cc5e9d8c7f33551fb0c 	|  	|
 | Day 46 	| 2/16/2020 	| 350. Intersection of two Arrays II.  387.First Unique Character in a string.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/c9f31ee4982ea27b46b3ec99b27eb25ac9bf747b 	|  	|
-| Day 47 	| 2/17/2020 	|  	|  	|  	|
+| Day 47 	| 2/17/2020 	| Started working on my network bandwidth montior project 	|https://github.com/MantieReid/network-bandwidth-monitor/commit/e92f9abbdcbf21a29647e2a4dca2fc0c35b358fc  	|  	|
