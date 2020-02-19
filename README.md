@@ -53,3 +53,5 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 45 	| 2/15/2020 	| 189. Rotate Array.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/feb941358d6429ca2e230cc5e9d8c7f33551fb0c 	|  	|
 | Day 46 	| 2/16/2020 	| 350. Intersection of two Arrays II.  387.First Unique Character in a string.py 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/c9f31ee4982ea27b46b3ec99b27eb25ac9bf747b 	|  	|
 | Day 47 	| 2/17/2020 	| Started working on my network bandwidth montior project 	|https://github.com/MantieReid/network-bandwidth-monitor/commit/e92f9abbdcbf21a29647e2a4dca2fc0c35b358fc  	|  	|
+| Day 48 	| 2/18/2020 	| Added Textblocks to the user interface. Need to add the rest of the UI. 	|https://github.com/MantieReid/network-bandwidth-monitor/commit/6e0205acc028d9b16e7c20787063b6811b194fa6  	|  	|
+
