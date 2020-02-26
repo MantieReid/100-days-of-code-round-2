@@ -59,3 +59,6 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 51 	| 2/21/2020 	| Maximum Depth of Binary Tree 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/a21d362d1e0ce07fdf61583e3062dbf2ad13fde8 	|
 | Day 52 	| 2/22/2020 	| Worked on trying to get the styles working. For now, I will just have to do the style manually. Added rows and cols, gave names to parts of the ui. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/fbfb88d520c71bebc739fe5ebab5e9f3825007de 	|
 | Day 53 	| 2/23/2020 	| Started adding the behind the scenes code for the rest of the program. Will do the rest of it later. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/fa679973be63d43f8f2c7f16d707213c02778cf8 	|
+| Day 54 	| 2/24/2020 	| Fixed Bug and worked on fixing the UI 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/ac8dd83b2ef9f6b43d731c2e201be7a514c56ffc 	|
+| Day 55 	| 2/25/2020 	| Starting over. Using UWP is not good, switching back to WPF. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4e749ff7ca56cd5a6e55abd32e1746f16e51b912 	|
+| Day 56 	| 2/26/2020 	|  	|  	|
