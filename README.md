@@ -61,5 +61,11 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 53 	| 2/23/2020 	| Started adding the behind the scenes code for the rest of the program. Will do the rest of it later. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/fa679973be63d43f8f2c7f16d707213c02778cf8 	|
 | Day 54 	| 2/24/2020 	| Fixed Bug and worked on fixing the UI 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/ac8dd83b2ef9f6b43d731c2e201be7a514c56ffc 	|
 | Day 55 	| 2/25/2020 	| Starting over. Using UWP is not good, switching back to WPF. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4e749ff7ca56cd5a6e55abd32e1746f16e51b912 	|
-| Day 56 	| 2/26/2020 	| Added new files to the project. Start of switch from UWP to WPF. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/cc43737861e5338cd50344d79687cf9545efb8fd 	|
-| Day 57 	| 2/27/2020 	| Started using wpf instead of uwp. Started over and got rid of project that was in uwp. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/a4848eed94e3e38c468a169f3adff4b9658491fa 	|
+| Day 56 	| 2/26/2020 	| Added New files to the 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/cc43737861e5338cd50344d79687cf9545efb8fd 	|
+| Day 57 	| 2/27/2020 	| Added A few labels. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/d2a60a3ed0fa3b1314e963ac5fda03a4a7c1a390 	|
+| Day 58 	| 2/28/2020 	| Added all the labels and the one combo box 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/d2a60a3ed0fa3b1314e963ac5fda03a4a7c1a390 	|
+| Day 59 	| 2/29/2020 	| Worked on fixing some errors 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/db678330791886d9eec568b73eaa79394c62c60a 	|
+| Day 60 	| 3/1/2020 	| Moved the grid  to be under the tab. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/d119cbb2fab6cd6b95f0f6c13c8caf966de9cdfb 	|
+| Day 61 	| 3/2/2020 	| Trying to get Oxyplot to work 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/811f93d37201e6215d75c134e34f382fe08975f3 	|
+| Day 62 	| 3/3/2020 	| Tyrying to use DVC as a chart 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/03c5c64d4bd324dc621c30a5002e92af0e4ed07b 	|
+| Day 63 	| 3/4/2020 	| Going to work on adding a custom bar or getting oxyplot to work. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/e3b51608ce372b3ebf3d4531dd1f0f8457b6acc9 	|
