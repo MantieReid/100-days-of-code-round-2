@@ -69,3 +69,8 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 61 	| 3/2/2020 	| Trying to get Oxyplot to work 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/811f93d37201e6215d75c134e34f382fe08975f3 	|
 | Day 62 	| 3/3/2020 	| Tyrying to use DVC as a chart 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/03c5c64d4bd324dc621c30a5002e92af0e4ed07b 	|
 | Day 63 	| 3/4/2020 	| Going to work on adding a custom bar or getting oxyplot to work. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/e3b51608ce372b3ebf3d4531dd1f0f8457b6acc9 	|
+| Day 64 	| 3/5/2020 	| Started Creating the excel chart. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/95465e5436d8c69d3fe3c7b55b5168ef71803f2e 	|
+| Day 65 	| 3/6/2020 	| Added a dictionary for the upload and download to store it. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/092e58078ddee38ccc56570c0abf4345d4c12e58 	|
+| Day 66 	| 3/7/2020 	| Added Code to add data to the excel sheet 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/17f5fbc1285843789174aaf0fd172896f02d2446 	|
+| Day 67 	| 3/9/2020 	| Got the data to be displayed in a data grid view 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4861677e14645354696e7c58217c995bbbd3da44 	|
+| Day 68 	| 3/10/2020 	| Got the data to be printed to a CSV file. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/7609d9bb8be02bc1d084da7d6ba7593408704104 	|
