@@ -74,3 +74,10 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 66 	| 3/7/2020 	| Added Code to add data to the excel sheet 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/17f5fbc1285843789174aaf0fd172896f02d2446 	|
 | Day 67 	| 3/9/2020 	| Got the data to be displayed in a data grid view 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4861677e14645354696e7c58217c995bbbd3da44 	|
 | Day 68 	| 3/10/2020 	| Got the data to be printed to a CSV file. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/7609d9bb8be02bc1d084da7d6ba7593408704104 	|
+| Day 69 	| 3/11/2020 	| Added Some code to convert the CSV to a excel chart 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/8b13cc39218da63d789d825ff172668c270a4c1b 	|
+| Day 70 	| 3/12/2020 	| Added Code to generate the chart when a certain button is clicked.  CSV is copied to a different file. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/9be3a32a35267865a5676c974107c44d220ebfbd 	|
+| Day 71 	| 3/13/2020 	| Need to fix issues with excel using the file after it has closed. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/8a78b31af6657a89989e7c5b3ca7459663253ae5 	|
+| Day 72 	| 3/14/2020 	| Got the data to be displayed properly in the excel chart. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/fcd0a41e83e2462d5d19957d604cae8d32c02776 	|
+| Day 73 	| 3/15/2020 	| Made a Standalone Exe, it will work without needing all the extra files such as the dlls. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/78a9959fad405ce8dd03afc71ee55ca5c7cb66d6 	|
+| Day 74 	| 3/16/2020 	|  	|  	|
+|  	|  	|  	|  	|
