@@ -79,5 +79,19 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 71 	| 3/13/2020 	| Need to fix issues with excel using the file after it has closed. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/8a78b31af6657a89989e7c5b3ca7459663253ae5 	|
 | Day 72 	| 3/14/2020 	| Got the data to be displayed properly in the excel chart. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/fcd0a41e83e2462d5d19957d604cae8d32c02776 	|
 | Day 73 	| 3/15/2020 	| Made a Standalone Exe, it will work without needing all the extra files such as the dlls. 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/78a9959fad405ce8dd03afc71ee55ca5c7cb66d6 	|
-| Day 74 	| 3/16/2020 	|  	|  	|
-|  	|  	|  	|  	|
+| Day 74 	| 3/16/2020 	| Fixed the Conversion Errors 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4b787e9d4e2769cf1758d147592ca143b436dad8 	|
+| Day 75 	| 3/17/2020 	| Added Total for upload row 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/5235537d1e12e5548e23d706b4daaad98efcc63a 	|
+| Day 76 	| 3/18/2020 	| Added Total for the upload and download row 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4b03159138d9661446dc06764896d369610e6cba 	|
+| Day 77 	| 3/19/2020 	| Fixed the issue with the range 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/bdccda09974485f181585c02a4c64f92719ae818 	|
+| Day 78 	| 3/20/2020 	| Changed the name of the tab from chart to data. Got rid of some not used code. Finished about menu 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/b871598753b7f0b9cac4af7a2cdfe0253c7f2f17 	|
+| Day 79 	| 3/21/2020 	| 4sum II 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/72c67f63bae21c58feb1fd24864a363a1fcd90a6 	|
+| Day 80 	| 3/22/2020 	| Made the Release EXE and added the missing event handler 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/4557943169441400e9c32ba8c28e8367e4937c2d 	|
+| Day 81 	| 3/23/2020 	| Solved Best time to buy and sell stock 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8cda6ad8f44599ffa6bacac61544d90fb7edf4a0 	|
+| Day 82 	| 3/24/2020 	| Completed Missing Number and hamming distance 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4b3d5b737b561750804503579bc64d74c54ad99b 	|
+| Day 83 	| 3/25/2020 	| Completed Pow(x,n) 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/624b2172cfb9cd73bbdfa2a85c658c97561abce9 	|
+| Day 84 	| 3/26/2020 	| Completed Add Binary and Single number 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/20ea56571a68e169d33dcfd47efadc467079c12c 	|
+|  	|  	|  	| https://github.com/MantieReid/100-days-of-code-round-2/commit/7278e4f20a23721f87fa39ca66b90fd524601584 	|
+| Day 85 	| 3/27/2020 	| Updated Readme on network meter 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/6f6724fc262f574b0b16ad47eab8182bb2433eb8 	|
+| Day 86 	| 3/28/2020 	| Completed sqrt 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/7278e4f20a23721f87fa39ca66b90fd524601584 	|
+| Day 87 	| 3/29/2020 	| Completed Find the Diffrence 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8a20c61ba2eca0c4c90f6a8bc79e11b21d14c5d0 	|
+| Day 88 	| 3/30/2020 	| unique Number of occurrences 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/616285f5a1e84182237cad774fa0453019915cee 	|
