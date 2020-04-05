@@ -95,3 +95,7 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 86 	| 3/28/2020 	| Completed sqrt 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/7278e4f20a23721f87fa39ca66b90fd524601584 	|
 | Day 87 	| 3/29/2020 	| Completed Find the Diffrence 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8a20c61ba2eca0c4c90f6a8bc79e11b21d14c5d0 	|
 | Day 88 	| 3/30/2020 	| unique Number of occurrences 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/616285f5a1e84182237cad774fa0453019915cee 	|
+| Day 89 	| 3/31/2020 	| Find Common Characters 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/6104f0986768e8c9dfe7caf483a19f7b2dfd3abb 	|
+| Day 90 	| 4/1/2020 	| Number of bits 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/012f15236228d92b559a8d9698d789b27dca8b82 	|
+| Day 91 	| 4/2/2020 	| Merge Sorted Array 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8d53df9630c8e296521524055357b1f2a0e566ce 	|
+| Day 92 	| 4/3/2020 	| Add Strings 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/1d3293d34cd9dd6edca9f4aaa5268622c7146409 	|
