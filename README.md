@@ -99,3 +99,6 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 90 	| 4/1/2020 	| Number of bits 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/012f15236228d92b559a8d9698d789b27dca8b82 	|
 | Day 91 	| 4/2/2020 	| Merge Sorted Array 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8d53df9630c8e296521524055357b1f2a0e566ce 	|
 | Day 92 	| 4/3/2020 	| Add Strings 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/1d3293d34cd9dd6edca9f4aaa5268622c7146409 	|
+| Day 93 	| 4/4/2020 	| 258 Add Digits 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/99251dbd6828b4f102005b9441a2faa295d32aa4 	|
+| Day 94 	| 4/5/2020 	| Best time to buy and sell stock II 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4624f0d8b96ccad65aba28b269a1207a39755c2a 	|
+| Day 95 	| 4/6/2020 	| Majority Element 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/62df772a8e1c2666fb87d804c58d9e3396b586e4 	|
