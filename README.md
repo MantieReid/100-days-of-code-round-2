@@ -90,7 +90,7 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 82 	| 3/24/2020 	| Completed Missing Number and hamming distance 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4b3d5b737b561750804503579bc64d74c54ad99b 	|
 | Day 83 	| 3/25/2020 	| Completed Pow(x,n) 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/624b2172cfb9cd73bbdfa2a85c658c97561abce9 	|
 | Day 84 	| 3/26/2020 	| Completed Add Binary and Single number 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/20ea56571a68e169d33dcfd47efadc467079c12c 	|
-|  	|  	|  	| https://github.com/MantieReid/100-days-of-code-round-2/commit/7278e4f20a23721f87fa39ca66b90fd524601584 	|
+|  	|  	|  	|  	|
 | Day 85 	| 3/27/2020 	| Updated Readme on network meter 	| https://github.com/MantieReid/network-bandwidth-monitor/commit/6f6724fc262f574b0b16ad47eab8182bb2433eb8 	|
 | Day 86 	| 3/28/2020 	| Completed sqrt 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/7278e4f20a23721f87fa39ca66b90fd524601584 	|
 | Day 87 	| 3/29/2020 	| Completed Find the Diffrence 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/8a20c61ba2eca0c4c90f6a8bc79e11b21d14c5d0 	|
@@ -102,3 +102,8 @@ I have Decided to take on the 100 days of code challenge, round 2.  Below you fi
 | Day 93 	| 4/4/2020 	| 258 Add Digits 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/99251dbd6828b4f102005b9441a2faa295d32aa4 	|
 | Day 94 	| 4/5/2020 	| Best time to buy and sell stock II 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4624f0d8b96ccad65aba28b269a1207a39755c2a 	|
 | Day 95 	| 4/6/2020 	| Majority Element 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/62df772a8e1c2666fb87d804c58d9e3396b586e4 	|
+| Day 96 	| 4/7/2020 	| Counting elements 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/ac37102a4240b9dd4a8e1dbf9205045a986121e5 	|
+| Day 97 	| 4/8/2020 	| Height checker 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/a198346d6bd1094f233b27d99a2bbe6ee96c76a5 	|
+| Day 98 	| 4/9/2020 	| Backspace string compare 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/f3c96abe8e307b1c770f0f6f401795564ce4d423 	|
+| Day 99 	| 4/10/2020 	| Find all duplicates 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/4d3a0248499ea7b638d08719f47a85b626e7c22d 	|
+| Day 100 	| 4/11/2020 	| Combination sum III 	| https://github.com/MantieReid/100-days-of-code-round-2/commit/0d1fead1a767b5372059782b804f4f387e329830 	|
