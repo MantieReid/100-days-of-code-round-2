@@ -2,7 +2,7 @@
 
 ## Contents
 
-I have Decided to take on the 100 days of code challenge, round 2.  Below you find a table that links to each commit for the code that I did for each day. 
+I have Completed the 100 days of code challenge, round 2.  Below you will find a table that links to each commit for the code that I did for each day. 
 
 | ﻿Day 	| Date 	| Description 	| Commit Hyperlink 	|
 |---------	|------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|
